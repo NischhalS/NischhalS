@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NischhalS,   
+- 👀 I’m interested in the evolution of software products happening in this magical world of software development
+- 🌱 Currently exploring the depths of Flutter and Dart as a very beginner and trying to create some useful developer tools to automate repeated code done by the Flutter developer in their most of the projects
+- 💞️ I’m looking for some collaboraters for a very passionate project, in which I want to develop a Cli tool that can setup flavors, CI/CD pipelines, and Commonly used Utility classes such as NavigationUtils, ApiController with a single command in flutter projects.  
+- 📫 You can reach me at dev.nischhal@gmail.com
