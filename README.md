@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
 <p align="left"> 
+  
 - 👋 Hi, I’m <strong> @NischhalS </strong>, 
   
 - 👀 I’m interested in the evolution of software products happening in this magical world of software development
@@ -9,20 +10,40 @@
   
 - 💞️ I’m looking for some  <strong> Collabarators </strong> for a very passionate project, in which I want to develop a  <strong> Cli Tool </strong> that can setup <strong> flavors, CI/CD pipelines, and Commonly used Utility classes such as NavigationUtils, ApiController </strong> with a single command in flutter projects.  
 </p>
+
+## 😁 Showcase   
 <div>
   <a href="https://github.com/NischhalS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NischhalS&count_private=true&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NischhalS&layout=compact&langs_count=7&theme=cobalt" min-width="340px" max-width="400px" width="340px"/>
 </div>
 
+## 🤹 Skills
 <p align="left">
-  🦄 <strong>Skills:</strong> Flutter, Java, Kotlin.
+ 
+  - 🥶 Flutter,
+  - 👩‍💻 Java,
+  - 📱 Kotlin 
 </p>
 
-<p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
+## 🔧 Tools
+<p align="right">
+  
+  - 💙 Visual Studio Code, 
+  
+  - 🅰️ Android Studio,
+    
+  - ✖️ Xcode,
+    
+  - 🥨 Git
 </p>
 
+## 🧑‍💻 Contributions
+<p align="left">
+⛳ Published a Flutter package at  <a href="https://www.pub.dev">Pub</a> <a href="https://pub.dev/packages/flutter_form_fields">flutter_form_fields</a>
+</p>
+
+## 🌍 Social
 <p align="left">
 📫 You can reach me at: <a href="mailto:dev.nischhal@gmail.com">dev.nischhal@gmail.com</a>
 </p>
